@@ -24,8 +24,12 @@
 
 ## Conect with me
 <p align="center">
-  [![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://linkedin.com/in/pedrovianaqa/)
-  [![Email](https://img.icons8.com/?size=100&id=MALg5O8gNn2g&format=png&color=000000)](mailto:pedro.viana23@hotmail.com.com)
+  <a href="mailto:pedro.viana23@hotmail.com.com">
+    <img alt="Outlook Icon" src="https://img.icons8.com/?size=100&id=MALg5O8gNn2g&format=png&color=000000"/>
+  </a>
+  <a href="https://linkedin.com/in/pedrovianaqa/">
+    <img alt="Linkedin Icon" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
+  </a>
 </p>
 
 <br>
