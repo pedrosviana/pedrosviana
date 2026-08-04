@@ -14,6 +14,10 @@
 <br>
 
 ## 🛠️ Tech Stack
+<p aling="center">
+  <img src="https://img.icons8.com/?size=100&id=106036&format=png&color=FFDE00">
+</p>
+
 
 ![JavaScript](https://img.icons8.com/?size=100&id=106036&format=png&color=FFDE00)
 ![Postman](https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000)
