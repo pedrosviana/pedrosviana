@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=106036&format=png&color=FFDE00">
+  <img src="https://img.icons8.com/?size=100&id=106036&format=png&color=FFDE00"/>
 </p>
 
 
