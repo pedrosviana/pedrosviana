@@ -21,7 +21,6 @@
   <img alt="Git Icon" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
 </p>
 
-
 ## Conect with me
 <p align="center">
   <a href="mailto:pedro.viana23@hotmail.com.com">
@@ -31,7 +30,5 @@
     <img alt="Linkedin Icon" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
   </a>
 </p>
-
-<br>
 
 ## Repositories
