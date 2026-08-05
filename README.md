@@ -17,8 +17,8 @@
 <p align="center">
   <img alt="HTML Icon" src="https://img.icons8.com/?size=70&id=20909&format=png&color=000000"/>
   <img alt="CSS Icon" src="https://img.icons8.com/?size=70&id=21278&format=png&color=000000"/>
-  <img alt="Javascript Icon" src="https://img.icons8.com/?size=70&id=106036&format=png&color=FFDE00"/>
-  <img alt="Postman Icon" src="https://img.icons8.com/?size=70&id=EPbEfEa7o8CB&format=png&color=000000"/>
+  <img alt="Javascript Icon" src="https://img.icons8.com/?size=60&id=106036&format=png&color=FFDE00"/>
+  <img alt="Postman Icon" src="https://img.icons8.com/?size=60&id=EPbEfEa7o8CB&format=png&color=000000"/>
   <img alt="SQL Server Icon" src="https://img.icons8.com/?size=70&id=laYYF3dV0Iew&format=png&color=000000"/>
   <img alt="Git Icon" src="https://img.icons8.com/?size=70&id=20906&format=png&color=000000"/>
   <img alt="Jira Icon" src="https://img.icons8.com/?size=70&id=oROcPah5ues6&format=png&color=000000"/>
