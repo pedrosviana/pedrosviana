@@ -35,3 +35,5 @@
 </p>
 
 ## Repositories
+[Manual Testing]()
+[API Testing]()
