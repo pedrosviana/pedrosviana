@@ -15,7 +15,6 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img alt="Javascript Icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg"/>
   <img alt="Javascript Icon" src="https://img.icons8.com/?size=100&id=106036&format=png&color=FFDE00"/>
   <img alt="Postman Icon" src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000"/>
   <img alt="SQL Icon" src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000"/>
