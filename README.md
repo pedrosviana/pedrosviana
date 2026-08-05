@@ -21,7 +21,7 @@
   <img alt="Postman Icon" src="https://img.icons8.com/?size=60&id=EPbEfEa7o8CB&format=png&color=000000"/>
   <img alt="SQL Server Icon" src="https://img.icons8.com/?size=70&id=laYYF3dV0Iew&format=png&color=000000"/>
   <img alt="Git Icon" src="https://img.icons8.com/?size=70&id=20906&format=png&color=000000"/>
-  <img alt="Jira Icon" src="https://img.icons8.com/?size=60&id=oROcPah5ues6&format=png&color=000000"/>
+  <img alt="Jira Icon" src="https://img.icons8.com/?size=65&id=oROcPah5ues6&format=png&color=000000"/>
 </p>
 
 ## Conect with me
