@@ -2,8 +2,10 @@
                                                 console.log("let's test it")
 ```
 
-
+<p align="cente">
 ## Hi there, Pedro's here! 👋
+</p>
+  
 ***`QA Analyst and future QA Automation Engineer`***
 
 ### 💻 I'm passionate about software quality, API testing, and automation.
