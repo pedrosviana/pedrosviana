@@ -35,7 +35,7 @@
 </p>
 
 ## Repositories
-[Manual Testing]()
+[Manual Testing](https://github.com/pedrosviana/qa-portfolio)
 <br>
 <br>
 [API Testing]()
