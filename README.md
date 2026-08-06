@@ -2,9 +2,9 @@
                                                 console.log("let's test it")
 ```
 
-<p align="center">
-## Hi there, Pedro's here! 👋
-</p>
+<h2 align="center">
+Hi there, Pedro's here! 👋
+</h2>
   
 ***`QA Analyst and future QA Automation Engineer`***
 
