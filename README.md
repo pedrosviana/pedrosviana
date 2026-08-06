@@ -2,7 +2,7 @@
                                                 console.log("let's test it")
 ```
 
-<p align="cente">
+<p align="center">
 ## Hi there, Pedro's here! 👋
 </p>
   
