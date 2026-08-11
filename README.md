@@ -6,7 +6,7 @@
 Hi there, Pedro's here! 👋
 </h2>
   
-***`QA Analyst and future QA Automation Engineer`***
+## About me
 
 ### 💻 I'm passionate about software quality, API testing, and automation.
 
