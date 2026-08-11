@@ -5,6 +5,7 @@
 <h2 align="center">
 Hi there, Pedro's here! 👋
 </h2>
+<br>
   
 ## About me
 
