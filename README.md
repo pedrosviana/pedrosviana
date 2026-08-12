@@ -1,6 +1,7 @@
 <h1 align="center">
 Hi there, Pedro's here! 👋
 </h1>
+<br>
   
 <h2>
     Who am I?
