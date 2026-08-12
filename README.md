@@ -1,10 +1,6 @@
-```javascript
-                                                console.log("let's test it")
-```
-
-<h2 align="center">
+<h1 align="center">
 Hi there, Pedro's here! 👋
-</h2>
+</h1>
 <br>
   
 ## About me
@@ -42,3 +38,7 @@ Hi there, Pedro's here! 👋
 <br>
 <br>
 [API Testing]()
+
+```javascript
+                                                console.log("let's test it")
+```
