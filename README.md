@@ -1,9 +1,10 @@
 <h1 align="center">
 Hi there, Pedro's here! 👋
 </h1>
-<br>
   
-## About me
+<h2>
+    Who am I?
+</h2>
 
 ### 💻 I'm passionate about software quality, API testing, and automation.
 
