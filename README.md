@@ -1,6 +1,8 @@
+<br>
 <h1 align="center">
 Hi there, Pedro's here! 👋
 </h1>
+<br>
 <br>
   
 <h2>
