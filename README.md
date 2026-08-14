@@ -4,17 +4,11 @@ Hi there, Pedro's here! 👋
 <h2 align="center">
   Software Tester
 </h2>
-
-  
+<br>
 <h2>
     Who am I?
 </h2>
-
-### 💻 I'm passionate about software quality, API testing, and automation.
-
-### 🎯 Currently focused on mastering JavaScript and API Testing.
-
-### ✨ Curious, a lifelong learner, and a technology enthusiast.
+Analista de QA com mais de 3 anos de experiência em testes de software, atuando na prevenção de falhas e otimização de processos de qualidade em sistemas críticos (incluindo sistemas homologados pela Receita Federal).
 <br>
 
 ## 🛠️ Tech Stack
