@@ -1,8 +1,10 @@
 <h1 align="center">
 Hi there, Pedro's here! 👋
 </h1>
-<br>
-<br>
+<h2 align="center">
+  Software Tester
+</h2>
+
   
 <h2>
     Who am I?
