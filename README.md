@@ -4,7 +4,7 @@ Hi there, Pedro's here! 👋
 <h2 align="center">
   Software Tester
 </h2>
----
+----
 <h2>
     Who am I?
 </h2>
