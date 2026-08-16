@@ -34,10 +34,10 @@ Analista de QA com mais de 3 anos de experiência em testes de software, atuando
 </p>
 
 ## Repositories
-[Manual Testing](https://github.com/pedrosviana/qa-portfolio)
+[Manual Testing](https://github.com/pedrosviana/qa-portfolio/tree/main/MANUAL_TESTING)
 <br>
 <br>
-[API Testing]()
+[API Testing](https://github.com/pedrosviana/qa-portfolio/tree/main/API_TESTING)
 
 ```javascript
                                                 console.log("let's test it")
