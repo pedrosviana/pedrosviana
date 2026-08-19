@@ -30,6 +30,7 @@ QA analyst with over 3 years of experience in software testing. Skilled in defec
 </p>
 
 ## Repositories
+<div align="center">
 <table>
 <tr>
   <th>Project</th>
@@ -44,7 +45,7 @@ QA analyst with over 3 years of experience in software testing. Skilled in defec
   <td>bla bla bla</td>
 </tr>
 </table>
-
+</div>
 ```javascript
                                                 console.log("let's test it")
 ```
