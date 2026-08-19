@@ -36,7 +36,7 @@ QA analyst with over 3 years of experience in software testing. Skilled in defec
   <th>Description</th>
 </tr>
 <tr>
-  <td><a href="https://github.com/pedrosviana/qa-portfolio/tree/main/MANUAL_TESTING">Manual Testing</a></td>D
+  <td><a href="https://github.com/pedrosviana/qa-portfolio/tree/main/MANUAL_TESTING">Manual Testing</a></td>
   <td>bla bla bla</td>
 </tr>
 <tr>
