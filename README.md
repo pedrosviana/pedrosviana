@@ -30,10 +30,20 @@ QA analyst with over 3 years of experience in software testing. Skilled in defec
 </p>
 
 ## Repositories
-[Manual Testing](https://github.com/pedrosviana/qa-portfolio/tree/main/MANUAL_TESTING)
-<br>
-<br>
-[API Testing](https://github.com/pedrosviana/qa-portfolio/tree/main/API_TESTING)
+<table>
+<tr>
+  <th>Project</th>
+  <th>Description</th>
+</tr>
+<tr>
+  <td>[Manual Testing]https://github.com/pedrosviana/qa-portfolio/tree/main/MANUAL_TESTING)</td>
+  <td>bla bla bla</td>
+</tr>
+<tr>
+  <td>[API Testing](https://github.com/pedrosviana/qa-portfolio/tree/main/API_TESTING)</td>
+  <td>bla bla bla</td>
+</tr>
+</table>
 
 ```javascript
                                                 console.log("let's test it")
