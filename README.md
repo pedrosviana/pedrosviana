@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, Pedro's here! 👋</h1>
-  ----
+  ---
   <h2>Software Tester | QA </h2>
 </div>
 
