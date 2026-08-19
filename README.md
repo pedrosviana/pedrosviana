@@ -1,3 +1,6 @@
+```javascript
+                                                console.log("let's test it")
+```
 <div align="center">
   <h1>Hi there, Pedro's here! 👋</h1>
 </div>
@@ -46,7 +49,3 @@ QA analyst with over 3 years of experience in software testing. Skilled in defec
 </tr>
 </table>
 </div>
-
-```javascript
-                                                console.log("let's test it")
-```
