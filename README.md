@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <h2>Software Tester</h2>
+  <h2>Software Tester | QA </h2>
 </div>
 
 <h2>
     Who am I?
 </h2>
-Analista de QA com mais de 3 anos de experiência em testes de software, atuando na prevenção de falhas e otimização de processos de qualidade em sistemas críticos (incluindo sistemas homologados pela Receita Federal).
+QA analyst with over 3 years of experience in software testing. Skilled in defect prevention, API testing and quality process optimization in critical systems.
 <br>
 
 ## 🛠️ Tech Stack
