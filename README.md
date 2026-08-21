@@ -37,15 +37,14 @@ QA analyst with over 3 years of experience in software testing. Skilled in defec
 <table>
 <tr>
   <th>Project</th>
-  <th colspan="2">Description</th>
-  <th></th>
+  <th>Description</th>
 </tr>
 <tr>
-  <td colspan="2"><a href="https://github.com/pedrosviana/qa-portfolio/tree/main/MANUAL_TESTING">Manual Testing</a></td>
+  <td><a href="https://github.com/pedrosviana/qa-portfolio/tree/main/MANUAL_TESTING">Manual Testing</a></td>
   <td>bla bla bla</td>
 </tr>
 <tr>
-  <td colspan="2"><a href="https://github.com/pedrosviana/qa-portfolio/tree/main/API_TESTING">API Testing</a></td>
+  <td><a href="https://github.com/pedrosviana/qa-portfolio/tree/main/API_TESTING">API Testing</a></td>
   <td>bla bla bla</td>
 </tr>
 </table>
