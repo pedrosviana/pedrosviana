@@ -37,7 +37,7 @@ QA analyst with over 3 years of experience in software testing. Skilled in defec
 <table>
 <tr>
   <th>Project</th>
-  <th>Description</th>
+  <th colspan="2">Description</th>
   <th></th>
 </tr>
 <tr>
